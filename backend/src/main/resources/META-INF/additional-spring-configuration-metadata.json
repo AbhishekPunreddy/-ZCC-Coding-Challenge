@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "domain",
+    "type": "java.lang.String",
+    "description": "A description for 'domain'"
+  },
+  {
+    "name": "pagecount",
+    "type": "java.lang.String",
+    "description": "A description for 'pagecount'"
+  },
+  {
+    "name": "userName",
+    "type": "java.lang.String",
+    "description": "A description for 'userName'"
+  },
+  {
+    "name": "password",
+    "type": "java.lang.String",
+    "description": "A description for 'password'"
+  },
+  {
+    "name": "userName",
+    "type": "java.lang.String",
+    "description": "A description for 'userName'"
+  },
+  {
+    "name": "userName",
+    "type": "java.lang.String",
+    "description": "A description for 'userName'"
+  },
+  {
+    "name": "username",
+    "type": "java.lang.String",
+    "description": "A description for 'username'"
+  }
+]}
