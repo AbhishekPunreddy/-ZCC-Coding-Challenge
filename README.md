@@ -42,10 +42,11 @@ Once the server is up, Frontend code needs to be run
 
 Note:
 
-In the application.properties in the backend code, we need to give the user specific details such as username, password and domain url
+In the application.properties in the backend code, we need to give the user specific details such as username, password, domain url and log file path.
 
 Example:
 
+* logging.file.name = C:/zendesk/zendesk.log
 * domain = https://zcctest.zendesk.com/api/v2/tickets
 * pagecount = 25
 * user = testuser@gmail.com
