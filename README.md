@@ -46,10 +46,10 @@ In the application.properties in the backend code, we need to give the user spec
 
 Example:
 
-domain = https://zcctest.zendesk.com/api/v2/tickets
-pagecount = 25
-user = testuser@gmail.com
-password = test123
+* domain = https://zcctest.zendesk.com/api/v2/tickets
+* pagecount = 25
+* user = testuser@gmail.com
+* password = test123
 
 Functionality:
 
